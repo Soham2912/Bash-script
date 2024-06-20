@@ -14,7 +14,7 @@ setInterval() {
 
 yourCode() {
    
-message="Scrip commit"
+message="Scripted a  commit"
 git add .
 git commit -m "$message"
 git push
