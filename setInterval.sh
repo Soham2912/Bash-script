@@ -14,7 +14,7 @@ setInterval() {
 
 yourCode() {
    
-message="Wrote a setInterval function similar to javascript that automates the commiting,staging and push git actions "
+message="Wrote a setInterval function similar to javascript that automates the commiting,staging and push git actions for given interval"
 git add .
 git commit -m "$message"
 git push
