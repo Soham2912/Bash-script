@@ -1,6 +1,6 @@
 
 
-echo "Commit message:"
+echo "Commit message: "
 
 read message
 
