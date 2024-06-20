@@ -1,7 +1,7 @@
 
 
 echo "Commit message: "
-
+hs
 read message
 
 git add .
